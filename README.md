@@ -26,4 +26,5 @@ Aplikasi ini saya rancang sebagai **kartu nama digital** dan **mini portofolio**
 1. Pastikan sudah menginstall **Flutter SDK**  
 2. Clone repo ini:
    ```bash
-   git clone https://github.com/MuhammadAkhyat/ProfileApp
+   git clone https://github.com/MuhammadAkhyat/ProfileApp.git
+
