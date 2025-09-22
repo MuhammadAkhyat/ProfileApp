@@ -28,3 +28,11 @@ Aplikasi ini saya rancang sebagai **kartu nama digital** dan **mini portofolio**
    ```bash
    git clone https://github.com/MuhammadAkhyat/ProfileApp.git
 
+## 📱 Preview Aplikasi
+
+Berikut tampilan halaman utama aplikasi Profil Saya:     
+
+<img width="625" height="992" alt="image" src="https://github.com/user-attachments/assets/6acd7772-c834-4605-af18-52de97956645" />
+
+
+
